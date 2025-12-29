@@ -1,6 +1,3 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+[![Build binary release](https://github.com/Joel-Ajayi/github-actions-rust/actions/workflows/release.yml/badge.svg)](https://github.com/Joel-Ajayi/github-actions-rust/actions/workflows/release.yml)
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Rust CI pipeline with Git Actions
